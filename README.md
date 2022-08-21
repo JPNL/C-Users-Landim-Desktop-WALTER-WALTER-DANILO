@@ -2,3 +2,5 @@
 
 Readme_Walter
 
+lembrei do comando: git
+lembrei do comando: git status
