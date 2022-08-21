@@ -2,4 +2,3 @@
 
 Readme_Walter
 
-lembrei do comando: git commit
